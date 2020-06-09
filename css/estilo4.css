@@ -1,0 +1,65 @@
+body{
+	background-color: #BDB76B;
+}
+
+
+h3,h4{
+    text-shadow:1px 1px 1px #111111;
+    color: #F8F8FF;
+    font-family: arial;
+}
+
+form{
+	margin:0 auto;
+	width: 800px;
+	padding: 40px;
+	border:20px solid #4682B4;
+	border-radius: 1px;
+}
+
+div{
+	height: 100px;
+	width: 200px;
+	margin-top: 50px;
+
+}
+
+label{
+	font-size: 20px;
+	display: inline-block;
+	width: 90px;
+	text-align: right;
+}
+
+input{
+	font:40px sans-serif;
+	width:500px;
+	border:2px solid #D2691E;
+}
+
+textarea{
+	border:2px solid #D2691E;
+	vertical-align: top;
+	height: 50%;
+	width: 250%;
+	resize:vertical;
+}
+
+button{
+	height: 50%;
+	padding-left: 1em;
+	margin-left: 40px;
+}
+
+ 
+footer{
+    font-size: 30px;
+    padding:20px;
+}   
+.topo{
+	height:auto;
+}
+
+.container{
+	padding: auto;
+}

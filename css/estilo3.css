@@ -1,0 +1,31 @@
+/*arquivo css*/
+
+/*tags*/
+body{
+    background-color: #4682B4;  
+}
+
+h1{
+    text-shadow:1px 1px 1px #111111;
+    color: #F8F8FF;
+    font-family: arial;
+    font-size: 30px;
+}
+ 
+footer{
+    color: #363636; 
+    font-size: 30px;
+    padding:20px;
+}
+
+a{
+    color: #FFFF00;
+}
+/*.class*/
+.topo{
+    height:auto;
+}
+
+#container{
+    padding: auto;
+}

@@ -1,0 +1,56 @@
+/*arquivo css*/
+
+/*tags*/
+h2{
+	color:white;
+	text-shadow:1px 1px 1px #111111;
+	text-align: center;
+	margin:0 0 50px 0;
+}
+
+header{
+	height: 50px;
+	padding: 50px
+
+}
+
+a{
+	color:#FFFAFA;
+	height: 30%;
+	font-family: arial;
+	margin:auto;
+}
+
+footer{
+	background-image:url(gif.gif);
+	clear:both;
+	background-color:#4682B4;
+	height: 80px;
+	text-align: center;
+	padding: 30px;
+}
+
+/*ids*/
+#principal{
+	background-color: #FFFAFA;
+	background-image:url('fundo1.jfif');
+	background-repeat:no-repeat;
+	background-size: 1500px;
+	min-height: 260px;
+	padding: 100px;
+}
+
+#logo{
+	float:left;
+}
+
+#menu{
+	float:right;
+
+
+}
+/*class*/	
+.container{
+      width: 960px;
+      margin:0 auto;
+}
